@@ -9,7 +9,7 @@ starting pages with some usefull links:
 
 Meet the [Players](the-players)
 
-![Eyepatch](/uploads/eyepatch.png "Eyepatch"){.align-center}
+![*THE* Eyepatch](/uploads/eyepatch.png "Eyepatch")
 -----
 
 
