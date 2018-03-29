@@ -10,3 +10,8 @@ like tables?
 |this|column|have|different|columns|
 |---|---|---|---|---|
 |some text| hi| some more text| is this even a table?????|---|
+
+|three|panel|row|
+| ----- | -----:|:----- |:-----:|
+|*four*|words|are|**plenty**|
+|one more| irregular| row     |
