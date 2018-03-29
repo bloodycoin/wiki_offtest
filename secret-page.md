@@ -15,4 +15,4 @@ like tables?
 | ----- | -----:|:----- |:-----:|
 |*four*|words|are|**plenty**|
 |lets| inline | ![Eyepatch](/uploads/eyepatch.png "Eyepatch"){.align-right height="50px" width="50px"}| image |
-|one more| irregular| row     |
+|one more| irregular| row    row   row your boat |
