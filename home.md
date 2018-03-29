@@ -11,7 +11,7 @@ Meet the [Players](the-players)
 
 ![*THE* Eyepatch](/uploads/eyepatch.png "Eyepatch")
 -----
-
+[Markdown rules](markdown-rules)
 [Secret Page](secret-page)
 
 `some tables? `
