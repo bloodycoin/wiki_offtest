@@ -11,7 +11,7 @@ like tables?
 |---|---|---|---|---|
 |some text| hi| some more text| is this even a table?????|---|
 
-|header|panel|row||
+|header|panel|headers||
 | ----- | -----:|:----- |:-----:|
 |*four*|words|are|**plenty**|
-|one more| irregular| row     |
+|one more| irregular| row     :|
