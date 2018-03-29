@@ -14,5 +14,5 @@ like tables?
 |header|panel|headers||
 | ----- | -----:|:----- |:-----:|
 |*four*|words|are|**plenty**|
-|lets| inline | ![Eyepatch](/uploads/eyepatch.png "Eyepatch"){.align-center}| image |
+|lets| inline | ![Eyepatch](/uploads/eyepatch.png "Eyepatch"){:align-center height="100px" width="100px"}| image |
 |one more| irregular| row     |
