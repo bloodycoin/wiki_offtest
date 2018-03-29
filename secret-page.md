@@ -14,4 +14,4 @@ like tables?
 |header|panel|headers||
 | ----- | -----:|:----- |:-----:|
 |*four*|words|are|**plenty**|
-|one more| irregular| row     :|
+|one more| irregular| row     |
