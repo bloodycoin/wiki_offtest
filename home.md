@@ -12,13 +12,17 @@ Meet the [Players](the-players)
 ![*THE* Eyepatch](/uploads/eyepatch.png "Eyepatch")
 -----
 
+[Secret Page](secret-page)
 
 `some tables? `
 
 
 -----------
 | name | Rytojus |
------------
+
+
+
+
 
 -----
 
